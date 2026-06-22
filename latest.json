@@ -1,5 +1,6 @@
 {
-  "RemoteVersion": "1.0.7",
-  "PackageURL": "https://raw.githubusercontent.com/Teobaldo406/SystemRPA-Studio-Releases/main/SystemRPA-Studio-Setup-v1.0.7.msi",
-  "ReleaseNotesURL": "https://github.com/Teobaldo406/SystemRPA-Studio-Releases"
+  "RemoteVersion": "1.0.8",
+  "PackageURL": "https://github.com/Teobaldo406/SystemRPA-Studio-Releases/releases/download/v1.0.8/SystemRPA-Studio-Setup-v1.0.8.msi",
+  "PackageSHA256": "9C63603C0D8B655207FBC08029D06C5361A53AA1467BC4A8C066D84667960A77",
+  "ReleaseNotesURL": "https://github.com/Teobaldo406/SystemRPA-Studio-Releases/releases/tag/v1.0.8"
 }
